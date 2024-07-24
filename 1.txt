@@ -1,5 +1,1 @@
-hello world
-
-new change after rebase
-new change after rebase
-new change after rebase
+A
